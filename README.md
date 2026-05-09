@@ -16,7 +16,7 @@ Built an intelligent travel guide for Cuba focused on automating recommendation 
 **Technologies:** Python  
 Implemented a recommendation system in Python to support decision-making through automated criteria. Worked on the recommendation logic and data processing to build a solution oriented toward personalization, analysis, and result optimization.
 
-### [Mortality AMI Predictor](https://github.com/Pol4720/mortality-ami-predictor)
+### [Mortality AMI Predictor](https://github.com/AbrahamRom/mortality-ami-predictor)
 **Technologies:** Jupyter Notebook, Python, HTML, JavaScript  
 Contributed to a machine learning project in healthcare, developing predictive models to estimate mortality in AMI patients. Performed exploratory analysis, data preparation, and model evaluation, helping turn clinical data into useful information for decision support.
 
@@ -56,7 +56,7 @@ Desarrollé una guía turística inteligente para Cuba, enfocada en automatizar 
 **Tecnologías:** Python  
 Implementé un sistema de recomendación en Python para apoyar la toma de decisiones a partir de criterios automatizados. Trabajé en la lógica de recomendación y en el procesamiento de datos para construir una solución orientada a personalización, análisis y optimización de resultados.
 
-### [Mortality AMI Predictor](https://github.com/Pol4720/mortality-ami-predictor)
+### [Mortality AMI Predictor](https://github.com/AbrahamRom/mortality-ami-predictor)
 **Tecnologías:** Jupyter Notebook, Python, HTML, JavaScript  
 Participé en un proyecto de machine learning aplicado a salud, desarrollando modelos predictivos para estimar mortalidad en pacientes con AMI. Realicé análisis exploratorio, preparación de datos y evaluación de modelos, contribuyendo a convertir datos clínicos en información útil para el soporte a decisiones.
 
