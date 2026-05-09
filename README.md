@@ -22,7 +22,7 @@ Contributed to a machine learning project in healthcare, developing predictive m
 
 ## Technical Skills
 
-- **Languages:** Python, SQL, JavaScript, HTML, TeX
+- **Languages:** Python, SQL, TeX, Rust, C#, C
 - **Frameworks & Libraries:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 - **Tools:** Git, GitHub, Google Colab, VS Code, Jupyter Notebook
 - **Databases:** SQL, relational databases
@@ -62,7 +62,7 @@ Participé en un proyecto de machine learning aplicado a salud, desarrollando mo
 
 ## Habilidades Técnicas
 
-- **Lenguajes:** Python, SQL, JavaScript, HTML, TeX
+- **Lenguajes:** Python, SQL, TeX, Rust, C#, C
 - **Frameworks y Librerías:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 - **Herramientas:** Git, GitHub, Google Colab, VS Code, Jupyter Notebook
 - **Bases de Datos:** SQL, bases de datos relacionales
