@@ -1,10 +1,50 @@
 # Abraham Romero Imbert
 
-[GitHub](https://github.com/AbrahamRom) | [Correo](mailto:ibrahimromimbert@gmail.com)
+[GitHub](https://github.com/AbrahamRom) | [Email](mailto:ibrahimromimbert@gmail.com)
+
+## Professional Profile
+
+Computer Science student focused on data analysis and artificial intelligence, with experience in model development, data processing, and problem solving through machine learning tools. I have worked on projects applying data cleaning, exploration, and visualization techniques to extract patterns and support decision-making. I am interested in building data-driven solutions that are efficient, scalable, and create real impact.
+
+## Projects
+
+### Tour Guide Cuba
+**Technologies:** Python, TeX  
+Built an intelligent travel guide for Cuba focused on automating recommendation generation and improving the user experience through Python-based logic. Designed the main solution structure to process information and deliver contextualized responses, applying efficiency and scalability criteria.
+
+### Optative Recommendation
+**Technologies:** Python  
+Implemented a recommendation system in Python to support decision-making through automated criteria. Worked on the recommendation logic and data processing to build a solution oriented toward personalization, analysis, and result optimization.
+
+### Mortality AMI Predictor
+**Technologies:** Jupyter Notebook, Python, HTML, JavaScript  
+Contributed to a machine learning project in healthcare, developing predictive models to estimate mortality in AMI patients. Performed exploratory analysis, data preparation, and model evaluation, helping turn clinical data into useful information for decision support.
+
+## Technical Skills
+
+- **Languages:** Python, SQL, JavaScript, HTML, TeX
+- **Frameworks & Libraries:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- **Tools:** Git, GitHub, Google Colab, VS Code, Jupyter Notebook
+- **Databases:** SQL, relational databases
+- **Specialization Areas:** Machine Learning, data analysis, predictive modeling, data visualization, recommendation systems, data processing
+
+## Education
+
+**Bachelor's Degree in Computer Science**  
+Faculty of Mathematics and Computer Science, University of Havana  
+Expected graduation: July 2026
+
+## Languages
+
+- English B1+
+- French B1
+- Spanish (native)
+
+---
 
 ## Perfil Profesional
 
-Estudiante de Licenciatura en Ciencias de la Computación, orientado al análisis de datos e inteligencia artificial, con experiencia en el desarrollo de modelos, procesamiento de datos y resolución de problemas mediante herramientas de machine learning. He trabajado en proyectos aplicando técnicas de limpieza, exploración y visualización de datos para extraer patrones y apoyar la toma de decisiones. Me interesa crear soluciones basadas en datos que sean eficientes, escalables y con impacto real.
+Estudiante de Licenciatura en Ciencias de la Computación orientado al análisis de datos e inteligencia artificial, con experiencia en el desarrollo de modelos, procesamiento de datos y resolución de problemas mediante herramientas de machine learning. He trabajado en proyectos aplicando técnicas de limpieza, exploración y visualización de datos para extraer patrones y apoyar la toma de decisiones. Me interesa crear soluciones basadas en datos que sean eficientes, escalables y con impacto real.
 
 ## Proyectos
 
@@ -24,7 +64,7 @@ Participé en un proyecto de machine learning aplicado a salud, desarrollando mo
 
 - **Lenguajes:** Python, SQL, JavaScript, HTML, TeX
 - **Frameworks y Librerías:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
-- **Herramientas:** Jupyter Notebook, Git, GitHub, Google Colab, VS Code
+- **Herramientas:** Git, GitHub, Google Colab, VS Code, Jupyter Notebook
 - **Bases de Datos:** SQL, bases de datos relacionales
 - **Áreas de especialización:** Machine Learning, análisis de datos, modelado predictivo, visualización de datos, sistemas de recomendación, procesamiento de datos
 
